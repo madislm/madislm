@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a third year Computer Science student
+I am a Computer Science graduate
 - 🌱 I’m currently learning Spring and Go
 - 📫 How to reach me: connect with me on LinkedIn (link in bio)
 <!--
