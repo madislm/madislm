@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a Software Engineer
-📫 How to reach me: connect with me on LinkedIn (link in bio)
+- 📫 How to reach me: connect with me on LinkedIn (link in bio)
 <!--
 **madislm/madislm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
